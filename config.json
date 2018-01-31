@@ -1,0 +1,5 @@
+{
+    "host": "https://na1.api.riotgames.com",
+    "champions": "/lol/static-data/v3/champions",
+    "apiKey": "RGAPI-8105d3d2-3655-41ec-9845-387c82a486d5"
+}
